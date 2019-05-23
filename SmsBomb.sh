@@ -83,26 +83,26 @@ clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
 git clone https://github.com/navisaharan/SmsBomb
-if [[ -s TBomb/TBomb.sh ]];then
-cd TBomb
+if [[ -s SmsBomn/SmsBomb.sh ]];then
+cd SmsBomb
 cp -r -f * .. > temp
 cd ..
-rm -rf  TBomb >> temp
+rm -rf  SmsBomb >> temp
 rm update.speedx >> temp
 rm temp
-chmod +x TBomb.sh
+chmod +x SmsBomb.sh
 fi
-echo -e "\e[1;32m TBomb Will Restart Now..."
+echo -e "\e[1;32m SmsBomb Will Restart Now..."
 echo -e "\e[1;32m All The Required Packages Will Be Installed..."
 echo -e "\e[1;34m Press Enter To Proceed To Restart..."
 read a6
-./TBomb.sh
+./SmsBomb.sh
 exit
 elif [ $ch -eq 4 ];then
 
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet SmsBomb
 echo -e "\e[1;34m Created By \e[0m"
 toilet -f mono12 -F border Jaat-Security
 echo -e "\e[4;34m This Bomber Was Created By Jaat-Security \e[0m"
