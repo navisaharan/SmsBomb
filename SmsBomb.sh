@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m Jaat Security!! \e[0m"
+echo -e "\e[4;31m Jaat-Security!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m SmsBomb \e[0m"
 echo "Press Enter To Continue"
@@ -21,7 +21,7 @@ while :
 do
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet SmsBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border Jaat-Security
 echo -e "\e[4;34m This Bomber Was Created By  Jaat-Security \e[0m"
