@@ -33,11 +33,11 @@ chmod +x SmsBomb.sh
 Now the Script Will Execute..
 
 
-For Any Queries Join Me On WhatsApp!!!
-          Group Link: http://bit.do/thespeedx
-  <a href="http://bit.do/thespeedx">Join My Group</a>
+For Any Queries Join Me On Email!!!
+          Mail: jaatsecurity@gmail.com
 
-           Mail: ggspeedx29@gmail.com
 
-           YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
+           Mail: jaatsecurity@gmail.com
+
+           YouTube Channel: https://www.youtube.com/c/Jaat-security
+  <a href="https://www.youtube.com/c/Jaat-security">Check My Channel</a>
