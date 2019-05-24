@@ -27,7 +27,7 @@ toilet -f mono12 -F border Jaat-Security
 echo -e "\e[4;34m This Bomber Was Created By  Jaat-Security \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: jaatsecurity@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/thespeedxgit \e[0m"
+
 echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Jaat-Security \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
@@ -41,7 +41,7 @@ if [ $ch -eq 1 ];then
 clear
 python bomber.py
 echo -e "\e[1;32m"
-figlet TBomb
+figlet SmsBomb
 echo -e "\e[1;34mCreated By \e[1;34m"
 toilet -f mono12 -F border Jaat-Security
 echo  " "
@@ -54,13 +54,13 @@ echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[4;34m This Bomber Was Created By Jaat-Security\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: jaatsecurity@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/thespeedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Jaat-security \e[0m"
 exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;33m"
-figlet TBomb
+figlet SmsBomb
 echo -e "\e[1;34mCreated By \e[1;34m"
 toilet -f mono12 -F border Jaat-Security
 echo  " "
@@ -73,8 +73,8 @@ echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[4;34m This Bomber Was Created By Jaat-Security\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: jaatsecurity@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/thespeedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Jaat-security \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
@@ -83,7 +83,7 @@ clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
 git clone https://github.com/navisaharan/SmsBomb
-if [[ -s SmsBomn/SmsBomb.sh ]];then
+if [[ -s SmsBomb/SmsBomb.sh ]];then
 cd SmsBomb
 cp -r -f * .. > temp
 cd ..
@@ -107,9 +107,9 @@ echo -e "\e[1;34m Created By \e[0m"
 toilet -f mono12 -F border Jaat-Security
 echo -e "\e[4;34m This Bomber Was Created By Jaat-Security \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/thespeedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m           Mail: jaatsecurity@gmail.com \e[0m"
+
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Jaat-security \e[0m"
 echo " "
 
 exit 0
